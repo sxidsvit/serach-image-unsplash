@@ -5,7 +5,7 @@ This is an educational application created to understand better how react-query 
 
 &nbsp;
 
-![Demo](./assets/demo.gif) 
+![Demo](/src/assets/demo.gif) 
 
 &nbsp;
 

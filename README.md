@@ -6,7 +6,7 @@ It has been created to understand better how react-query communicate with unspal
 
 &nbsp;
 
-![Demo](./assets/demo.gif) 
+![Demo](/src/assets/demo.gif) 
 
 &nbsp;
 
